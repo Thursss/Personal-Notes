@@ -17,3 +17,12 @@ logs
 *.log
 *.bak
 *.tmp
+
+# cache and other temporary files
+.cache
+.tmp
+.temp
+storage
+
+# testing files
+_test
