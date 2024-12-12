@@ -1,0 +1,19 @@
+# virtual environment
+.venv
+__pycache__
+
+# compiled python files
+*.pyc
+*.pyo
+
+# IDE files
+.vscode
+.idea
+.DS_Store
+
+# logs and databases
+logs
+*.sqlite3
+*.log
+*.bak
+*.tmp
